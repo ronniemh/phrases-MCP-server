@@ -2,6 +2,10 @@
 
 Un servidor MCP (Model Context Protocol) elegante y eficiente para gestionar frases inspiradoras. Diseñado para integrarse perfectamente con Claude for Desktop y otros clientes MCP.
 
+<div align="center">
+  <img src="https://github.com/ronniemh/phrases-MCP-server/raw/main/assets/diagram.png" alt="Diagrama de arquitectura" width="600">
+</div>
+
 ## ✨ Características
 
 - **Gestión completa de frases** - Crea, lee, actualiza y elimina frases con facilidad
@@ -9,7 +13,7 @@ Un servidor MCP (Model Context Protocol) elegante y eficiente para gestionar fra
 - **API Mock integrada** - Utiliza una API mock para pruebas y desarrollo
 
 ## 🛠️ Herramientas disponibles
-
+no
 El servidor expone las siguientes herramientas MCP:
 
 | Herramienta | Descripción |
