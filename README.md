@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/mseep-audited.png)](https://mseep.ai/app/ronniemh-phrases-mcp-server)
+
 # 🤖 Phrases MCP Server
 
 Un servidor MCP (Model Context Protocol) elegante y eficiente para gestionar frases inspiradoras. Diseñado para integrarse perfectamente con Claude for Desktop y otros clientes MCP.
